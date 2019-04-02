@@ -1,4 +1,4 @@
 #  Apple Site 
 By Armando Soto
 
-Live version: https://macatuz.github.io/Macatuz-Microverse-Building-with-Backgrounds-and-Gradients/Index
+Live version: https://github.com/Macatuz/Apple-Site
